@@ -29,7 +29,7 @@ El sistema fue diseñado para prácticas de automatización y control industrial
 # 🖼️ Vista General del Sistema
 
 <p align="center">
-  <img src="docs/img/sistema_general.png" width="850">
+  <img src="5. Evidencia fotografica/sistema_general.png" width="850">
 </p>
 
 ---
