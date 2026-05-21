@@ -3,7 +3,7 @@
 # Sistema de Control de Movimiento Triaxial X-Y-Z
 
 Este repositorio contiene el desarrollo de un sistema de control de movimiento lineal de alta precisión para aplicaciones educativas e industriales.  
-El proyecto fue desarrollado en la Universidad ECCI como parte del **Proyecto Integrador 2025-I** y posteriormente ampliado durante el **Seminario de Ingeniería Electrónica 2026**.
+El proyecto fue desarrollado en la Universidad ECCI como parte del **Proyecto Integrador 2025-II** y posteriormente ampliado durante el **Seminario de Ingeniería Electrónica 2026**.
 
 El sistema implementa el control de los ejes **X, Y y Z** mediante motores paso a paso de bucle cerrado, controlados tanto por un **ESP32 con MicroPython** como por un **PLC Siemens S7-1200** programado en **TIA Portal**.
 
