@@ -22,7 +22,7 @@ La plataforma integra:
 - Sistema de paro de emergencia industrial.
 - Gemelo Digital con simulación industrial.
 
-El sistema fue diseñado para prácticas de automatización, control industrial y manufactura inteligente.
+El sistema fue diseñado para prácticas de automatización y control industrial.
 
 ---
 
