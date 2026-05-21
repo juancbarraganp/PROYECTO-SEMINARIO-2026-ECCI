@@ -17,7 +17,7 @@ La plataforma integra:
 - Guías lineales HGR20.
 - Tornillos de bolas SFU1204.
 - Sensores inductivos PNP.
-- Sensores PT100/PT1000.
+- Sensores PT100.
 - Pantalla Nextion con asistencia mediante chatbot.
 - Sistema de paro de emergencia industrial.
 - Gemelo Digital con simulación industrial.
@@ -29,7 +29,7 @@ El sistema fue diseñado para prácticas de automatización y control industrial
 # 🖼️ Vista General del Sistema
 
 <p align="center">
-  <img src="5. Evidencia fotografica/sistema_general.png" width="850">
+  <img src="5. Evidencia fotografica/Estructura.jpeg" width="850">
 </p>
 
 ---
@@ -40,7 +40,7 @@ El sistema fue diseñado para prácticas de automatización y control industrial
 - ⚙️ Arquitectura híbrida ESP32 + PLC Siemens S7-1200.
 - 🧠 Programación en MicroPython y Ladder.
 - 📡 Sensores inductivos PNP para límites de recorrido.
-- 🌡️ Monitoreo térmico mediante sensores PT100/PT1000.
+- 🌡️ Monitoreo térmico mediante sensores PT100.
 - 🔒 Sistema de paro de emergencia industrial.
 - 🚨 Baliza LED de señalización.
 - 🧩 Diseño modular mediante PCB personalizadas.
